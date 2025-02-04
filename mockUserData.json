@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "admin@fynix.pro", 
+    "picture": null, 
+    "username": "Admin", 
+    "permissionLevel": "admin", 
+    "teams": ["organization1Id","team1Id","team2Id","organization2Id","team4Id"], 
+    "password": "admin"
+  },
+  {
+    "userId": "joan@fynix.pro", 
+    "picture": null, 
+    "username": "Joan", 
+    "permissionLevel": null, 
+    "teams": ["organization1Id","team1Id","organization2Id","team4Id"], 
+    "password": "joan"
+  },
+  {
+    "userId": "marti@fynix.pro", 
+    "picture": null, 
+    "username": "Marti", 
+    "permissionLevel": null, 
+    "teams": ["organization1Id","team1Id","team2Id","organization2Id"],
+    "password": "marti"
+  },
+  {
+    "userId": "marc@fynix.pro", 
+    "picture": null, 
+    "username": "Marc", 
+    "permissionLevel": null, 
+    "teams": ["team1Id"],
+    "password": "marc"
+  },
+  {
+    "userId": "nil@fynix.pro", 
+    "picture": null, 
+    "username": "Nil", 
+    "permissionLevel": null, 
+    "teams": ["team1Id"],
+    "password": "marc"
+  },
+  {
+    "userId": "rmusach@xtec.cat", 
+    "picture": null, 
+    "username": "Ramon", 
+    "permissionLevel": null, 
+    "teams": ["team1Id"],
+    "password": "contrasenyaTemporal1234"
+  }
+]
